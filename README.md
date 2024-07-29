@@ -1,0 +1,1 @@
+Trained a Language Model to see if the overall intent / sentiment of a video is positive or negative. You can pass it URL of any video, and it will predict (from the URL) if the video is positive, neurtal, and negative
