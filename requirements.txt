@@ -1,0 +1,9 @@
+gradio==3.1.4
+yt-dlp
+vosk
+pydub
+transformers
+torch
+requests
+httpx==0.23.0
+httpcore==0.15.0
