@@ -1,9 +1,0 @@
-gradio
-yt-dlp
-vosk
-pydub
-transformers
-torch
-requests
-
-
